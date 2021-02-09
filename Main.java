@@ -17,7 +17,7 @@ class Main {
 
     int originalRand = randomNum;
 
-    while (randomNum > 0)
+    while (randomNum >= 0)
     {System.out.println(randomNum);
     randomNum--;
     }
