@@ -1,7 +1,7 @@
 /*
 Lab 4
 Partners: Adam James and Seth Adleta
-Date: (whatever date you turn it in)
+Date: 2/9/2021
 */
 
 import java.util.Random;
